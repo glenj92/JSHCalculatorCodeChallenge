@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace calculatorAPI.Services;
+namespace calculatorAPI.Interfaces;
 
 
 public interface ICreateOperation

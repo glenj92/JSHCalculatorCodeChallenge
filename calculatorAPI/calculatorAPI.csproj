@@ -14,9 +14,11 @@
     <None Remove="Services\" />
     <None Remove="Newtonsoft.Json" />
     <None Remove="System.Net.Http" />
+    <None Remove="Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
+    <Folder Include="Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\.editorconfig" />

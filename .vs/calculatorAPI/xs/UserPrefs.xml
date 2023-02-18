@@ -1,30 +1,25 @@
 ﻿<Properties StartupConfiguration="{BC666D6D-CB8F-4C6F-B411-6B964A1E5D0D}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../calculatorAPI/Services/OperationService.cs" line="9" column="33" endLine="9" endColumn="43" offsetX="-1" offsetY="-1" expression="IOperation" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.calculatorAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="calculatorAPI/Services/OperationService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculatorAPI/Controllers/OperationController.cs">
     <Files>
-      <File FileName="calculatorAPI/Services/ICreateOperation.cs" />
-      <File FileName="calculatorAPI/Controllers/OperationController.cs" />
-      <File FileName="calculatorAPI/Services/OperationService.cs" Line="26" Column="1" />
+      <File FileName="calculatorAPI/Controllers/OperationController.cs" Line="54" Column="1" />
+      <File FileName="calculatorAPI/Services/Division.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="calculatorAPI" expanded="True">
             <Node name="Solution Items" expanded="True" />
-            <Node name="calculatorAPI" expanded="True" selected="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
+            <Node name="calculatorAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="OperationController.cs" selected="True" />
               </Node>
-              <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
               <Node name="Services" expanded="True" />
             </Node>
           </Node>
@@ -32,4 +27,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.calculatorAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../calculatorAPI/Services/OperationService.cs" line="9" column="33" endLine="9" endColumn="43" offsetX="-1" offsetY="-1" expression="IOperation" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
 </Properties>
