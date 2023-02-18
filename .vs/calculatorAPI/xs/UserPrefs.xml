@@ -5,9 +5,9 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="calculatorAPI/Services/OperationService.cs">
     <Files>
-      <File FileName="calculatorAPI/Services/ICreateOperation.cs" Line="2" Column="32" />
-      <File FileName="calculatorAPI/Controllers/OperationController.cs" Line="6" Column="45" />
-      <File FileName="calculatorAPI/Services/OperationService.cs" Line="9" Column="35" />
+      <File FileName="calculatorAPI/Services/ICreateOperation.cs" />
+      <File FileName="calculatorAPI/Controllers/OperationController.cs" />
+      <File FileName="calculatorAPI/Services/OperationService.cs" Line="26" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,9 @@
               </Node>
               <Node name="Controllers" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Division.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
