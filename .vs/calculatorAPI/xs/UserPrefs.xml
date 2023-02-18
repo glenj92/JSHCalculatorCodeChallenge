@@ -1,4 +1,9 @@
 ﻿<Properties StartupConfiguration="{BC666D6D-CB8F-4C6F-B411-6B964A1E5D0D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../calculatorAPI/Services/OperationService.cs" line="9" column="33" endLine="9" endColumn="43" offsetX="-1" offsetY="-1" expression="IOperation" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.calculatorAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -14,24 +19,17 @@
         <State name="__root__">
           <Node name="calculatorAPI" expanded="True">
             <Node name="Solution Items" expanded="True" />
-            <Node name="calculatorAPI" expanded="True">
+            <Node name="calculatorAPI" expanded="True" selected="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
               <Node name="Controllers" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="Division.cs" selected="True" />
-              </Node>
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../calculatorAPI/Services/OperationService.cs" line="9" column="33" endLine="9" endColumn="43" offsetX="-1" offsetY="-1" expression="IOperation" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.calculatorAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
